@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../js basic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js basic"
+	}
+}
